@@ -1,2 +1,2 @@
 # Happy Birthday Catherine Crossword
-A mobile-friendly crossword puzzle gift.
+A custom mobile-friendly crossword puzzle gift.
